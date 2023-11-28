@@ -1,5 +1,5 @@
 {
-  "name": "TG File Share/Sharing Bot",
+  "name": "Buggy",
   "description": "file sharing bot store posts and it can access by special links",
   "keywords": [
     "telegram",
@@ -11,15 +11,15 @@
   "env": {
     "TG_BOT_TOKEN": {
       "description": "Your Bot token, Get it from @Botfather",
-      "value": "6687685332:AAGYP5iEmPfHjzG9Pl75Apd7Y8xkNOAKMJI"
+      "value": "6687685332:AAGYP5iEmPfHjzG9Pl75Apd7Y8xkNOAKMJI"))
     },
     "OWNER_ID": {
       "description": "An integer of consisting of your owner ID",
-      "value": "1861354020"
+      "value": "1861354020"))
     },
     "APP_ID":{
       "description": "your app id, take it from my.telegram.org",
-      "value": "29817626"
+      "value": "29817626"))
     },
     "DATABASE_URL": {
       "description": "Paste your mongo db url",
@@ -31,15 +31,15 @@
     },
     "API_HASH":{
       "description": "your api hash, take it from my.telegram.org",
-      "value": "c530823a3feb1ebfea88b609708384a6"
+      "value": "c530823a3feb1ebfea88b609708384a6"))
     },
     "CHANNEL_ID":{
       "description": "make a channel (database channel), then make the bot as admin in channel, and it's id",
-      "value": "-1001758227473"
+      "value": "-1001758227473"))
     },
     "FORCE_SUB_CHANNEL":{
       "description": "id of the channel or group, if you want enable force sub feature else put 0",
-      "value":"@f7moviesofficial"
+      "value":"@f7moviesofficial"))
     },
     "START_MESSAGE": {
       "description": "Optional: start message of bot, use HTML parsemode format",
